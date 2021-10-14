@@ -13,12 +13,6 @@
   },
   {
     "id": 3,
-    "price": "25.000",
-    "title": "Monitor",
-    "thumbnail": "https://cdn.pixabay.com/photo/2012/04/13/17/00/lcd-32872_960_720.png"
-  },
-  {
-    "id": 4,
     "price": "350.67",
     "title": "Lapiceras",
     "thumbnail": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/129/599/products/set-bic1-aef88bbb98e03349d916027908045960-640-0.jpg"
